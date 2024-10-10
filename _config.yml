@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "Shenzhen-China"
-title                    : "Chengbo Zhang "
+title                    : "Chengbo Nicholas Zhang"
 title_separator          : "-"
 name                     : &name "Chengbo Zhang"
 description              : &description "Master student at Harbin Institute of Technology (Shenzhen), specializing in Urban Science and Planning"
-url                      : https://nicholas0027.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://cb.nicholas.zhang.github.io  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nicholas0027/academicpages.github.io"
+repository               : "Nicholas0027/cb.nicholas.zhang.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
